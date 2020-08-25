@@ -1,16 +1,14 @@
-# CentOS7环境配置PXE无人值守OS安装环境
-
 ---
-
 layout:     post
-title:      CentOS7环境配置PXE无人值守OS安装环境
-subtitle:   CentOS7环境配置PXE无人值守OS安装环境
-date:       2020-07-16
-author:     arthas
-header-img: img/post-bg-ios9-web.jpg
+title:      5分钟带你看完 WWDC 2018
+subtitle:   WWDC 2018 Keynote 全记录
+date:       2018-06-05
+author:     BY
+header-img: img/post-bg-cook.jpg
 catalog: true
-
-
+tags:
+    - iOS
+---
 
 ##  引言
 
