@@ -1,13 +1,15 @@
 ---
 layout:     post
-title:      5分钟带你看完 WWDC 2018
-subtitle:   WWDC 2018 Keynote 全记录
-date:       2018-06-05
-author:     BY
+title:      CentOS7生产环境配置PXE无人值守OS安装环境
+subtitle:   基于UEFI引导的批量安装
+date:       2020-07-05
+author:     Lionano
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - iOS
+    - PXE
+    - CentOS
+    - Batch Install
 ---
 
 ##  引言
