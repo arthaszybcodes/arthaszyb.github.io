@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: yau的博客 | BY Blog
+title: Lionado's Blog
+SEOTitle: Lionado的博客 | BY yau
 header-img: img/post-bg-desk.jpg
 email: arthaszyb@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, yau的博客 yau, iOS, Apple, iPhone"
-url: "http://yau.github.io"          # your host, for absolute URL
+description: "I would rather die than keep silent."
+keyword: "Blog, yau的博客 yau, iOS, Apple, iPhone"
+url: "https://arthaszyb.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/arthaszyb/arthaszyb.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chinatimes.com%2Fhottopic%2F20190405001508-260805&psig=AOvVaw1r_of3jbYE_wZzbWziwcwc&ust=1598438944182000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC3vZ2XtusCFQAAAAAdAAAAABAD"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     arthaszyb
+weibo_username:     arthaszyb
 zhihu_username:     arthaszyb
 github_username:    arthaszyb
 facebook_username:  arthaszyb
 jianshu_username:   arthaszyb
-#twitter_username:   arthaszyb
+twitter_username:   arthaszyb
 
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: arthaszyb.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
