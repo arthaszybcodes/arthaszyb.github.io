@@ -3,7 +3,7 @@ layout:     post
 title:      CentOS7生产环境配置PXE无人值守OS安装环境
 subtitle:   基于UEFI引导的批量安装
 date:       2020-07-05
-author:     Lionano
+author:     Lionado
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
